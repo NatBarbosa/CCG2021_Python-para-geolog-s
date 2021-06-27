@@ -22,11 +22,11 @@ Ingeniera Geóloga, Magíster en Recursos Hidráulicos de la Universidad Naciona
 
 # DOCUMENTACION 
 
-Para el desarrollo del curso usaremos esta pagina y repositorio de GitHub para compartir los codigos y presentaciones. Este repositorio sera actualizado al final de curso con los resultados de los ejercicios practicos y preguntas frecuentes. Para profundizara en temas relaciondos ofrecemos esta lista de lectura. 
+Para el desarrollo del curso usaremos esta pagina y repositorio de GitHub para compartir los codigos y presentaciones. Este repositorio sera actualizado al final de curso con los resultados de los ejercicios practicos y preguntas frecuentes. Para profundizara en temas relacionados ofrecemos esta lista de lectura. 
 
 # SOFTWARE 
 
-Usaremos **Colaboratory** - también llamado 'Colab' - para ejecutar y programar en Python. Colab es un web IDE (Integrated development environment) que se basa en celdas que contienen lineas de codigo. 
+Usaremos **Colaboratory** - también llamado 'Colab' - para ejecutar y programar en Python. Colab es un web IDE (Integrated development environment) que se basa en celdas que contienen lineas de codigo. Para major información sobre el uso de Colab te invitamos a ver este [video introductorio](https://www.youtube.com/watch?v=inN8seMm7UI "Introduccion a Colab").
 
 Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta de la UNAL). Las librerias que vamos usar ya se encuentran pre-instaladas. Los archivos son almacendos en tu cuenta de google drive y desde ahi pueden ser compartidos y descargados. Colab provee una GPU y TPU para trabajar. **Ten encuenta que tus archivos son almacenados en la nube de google drive, por favor no uses información sensible!**
 
