@@ -5,11 +5,8 @@
 # DESCRIPCION DEL CURSO
 
 No necesitas ser un genio para programar. Programa es mas que escribir un codigo, es aprender el proceso de romper problemas en pequenos pasos e implementarlos. Este curso esta enfocado en proporcionar herramientas que permitan implementar esos pequenos pasos que componene la solucion de un gran problema.
-Porque aprender a programar? 
 
-En ese curso se abordaran temas como....
-
-Este curso esta enfocado a estudiantes de geologia y carreras afines que esten interesados en aprender conceptos basicos de programacion y su aplicacion a la geomorfologia cuantitativa. No se necesita experiencia previa en programacion. Conocimientos basicos de geologia fisica son necesarios. 
+Este curso esta enfocado a estudiantes de geologia y carreras afines que esten interesados en aprender conceptos basicos de programacion y su aplicacion a la geomorfologia cuantitativa. No se necesita experiencia previa en programacion. Conocimientos basicos de geologia fisica son necesarios. Conocimientos previos en manejo de GIS o sensores remotos es ideal. 
 
 
 # INSTRUCTORAS
