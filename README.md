@@ -36,14 +36,13 @@ Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta 
 
   * Presentacion de bienvenida
   * Conceptos basicos de python
-  * Conceptos basicos de manejo de datos espaciales formato raster (Imagenes satelitales y modelos digitales de elevacion)
-  * Ejercicios practicos
+  * Conceptos basicos de manipulación de modelos digitales de elevación
 
 12:45-1:00 Preguntas y comentarios finales 
 
 ***MARTES 17 DE AGOSTO, empezando a las 9:00 COL***
 
-* Lectura y manejo de datos espaciales puntuales 
+* Calculo de variables morfométricas con ventanas de observación ajustables
 * Ejercicio grupal para afianzar concocimientos (4 personas) 
 
 11:45-12:45 5/10 min Presentaciones grupales de resultados deel ejercicio
