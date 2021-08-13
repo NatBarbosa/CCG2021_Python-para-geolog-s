@@ -45,6 +45,11 @@ Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta 
 11:45-12:45 5/10 min Presentaciones grupales de resultados deel ejercicio
 12:45-1:00. Preguntas finales de cierre
 
+# Canales de comunicación 
+
+Slack --> https://join.slack.com/t/pythonccg2021/shared_invite/zt-uj2b91rl-slbSch34tI4h68AX2XnP1w
+
+Unete para compartir ideas, preguntas y respuestas antés, durante y después del curso. 
 
 
 
