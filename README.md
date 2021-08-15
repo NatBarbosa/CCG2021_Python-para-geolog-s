@@ -39,17 +39,11 @@ Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta 
 
 ***MARTES 17 DE AGOSTO, empezando a las 9:00 COL***
 
-* Calculo de variables morfométricas con ventanas de observación ajustables
-* Ejercicio grupal para afianzar concocimientos (4 personas) 
+* Aplicación de conceptos sobre datos raster a imagenes satelitales 
+* Integración de información en formato vector y raster
+* Ejercicio grupal para afianzar concocimientos (grupos de 5 personas) 
 
-11:45-12:45 5/10 min Presentaciones grupales de resultados deel ejercicio
-12:45-1:00. Preguntas finales de cierre
-
-# Canales de comunicación 
-
-Slack --> https://join.slack.com/t/pythonccg2021/shared_invite/zt-uj2b91rl-slbSch34tI4h68AX2XnP1w
-
-Unete para compartir ideas, preguntas y respuestas antés, durante y después del curso. 
+12:30-1:00. 5min por grupo para compartir comentarios, resultados y preguntas.
 
 
 
