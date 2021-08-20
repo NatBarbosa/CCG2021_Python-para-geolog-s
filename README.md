@@ -1,5 +1,9 @@
 # CCG2021_Python para geologos/as - Una pincelada al análisis de datos espaciales en formato raster
 
+
+<img src="Screenshot 2021-08-17 at 20.02.23.png" alt="hi" class="inline"/>
+
+
 <img src="Plantilla ACTUALIZADA-1.pptx (12).png" alt="hi" class="inline"/>
 
 # DESCRIPCION DEL CURSO
@@ -27,9 +31,7 @@ Usaremos **Colaboratory** - también llamado 'Colab' - para ejecutar y programar
 
 Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta de la UNAL). Las librerias que vamos usar ya se encuentran pre-instaladas. Los archivos son almacendos en tu cuenta de google drive y desde ahi pueden ser compartidos y descargados. Colab provee una GPU y TPU para trabajar. **Ten encuenta que tus archivos son almacenados en la nube de google drive, por favor no uses información sensible!**
 
-# RESULTADOS 
 
-<img src="Screenshot 2021-08-17 at 20.02.23.png" alt="hi" class="inline"/>
 
 
 
