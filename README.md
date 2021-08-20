@@ -27,23 +27,9 @@ Usaremos **Colaboratory** - también llamado 'Colab' - para ejecutar y programar
 
 Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta de la UNAL). Las librerias que vamos usar ya se encuentran pre-instaladas. Los archivos son almacendos en tu cuenta de google drive y desde ahi pueden ser compartidos y descargados. Colab provee una GPU y TPU para trabajar. **Ten encuenta que tus archivos son almacenados en la nube de google drive, por favor no uses información sensible!**
 
-# PROGRAMA TENTATIVO
+# RESULTADOS 
 
-***LUNES 16 DE AGOSTO, empezando a las 9:00 COL***
-
-  * Presentacion de bienvenida
-  * Conceptos basicos de python
-  * Conceptos basicos de manipulación de modelos digitales de elevación
-
-12:45-1:00 Preguntas y comentarios finales 
-
-***MARTES 17 DE AGOSTO, empezando a las 9:00 COL***
-
-* Aplicación de conceptos sobre datos raster a imagenes satelitales 
-* Integración de información en formato vector y raster
-* Ejercicio grupal para afianzar concocimientos (grupos de 5 personas) 
-
-12:30-1:00. 5min por grupo para compartir comentarios, resultados y preguntas.
+<img src="Screenshot 2021-08-17 at 20.02.32.PNG" alt="hi" class="inline"/>
 
 
 
