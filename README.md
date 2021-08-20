@@ -29,7 +29,7 @@ Para acceder a Colab necesitas una cuenta de google (alternativamente tu cuenta 
 
 # RESULTADOS 
 
-<img src="Screenshot 2021-08-17 at 20.02.32.PNG" alt="hi" class="inline"/>
+<img src="Screenshot 2021-08-17 at 20.02.23.png" alt="hi" class="inline"/>
 
 
 
