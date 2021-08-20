@@ -1,7 +1,7 @@
 # CCG2021_Python para geologos/as - Una pincelada al análisis de datos espaciales en formato raster
 
 
-<img src="Screenshot 2021-08-17 at 20.02.23.png" alt="hi" class="inline"/>
+<img src="Screenshot 2021-08-17 at 20.02.32.png" alt="hi" class="inline"/>
 
 
 <img src="Plantilla ACTUALIZADA-1.pptx (12).png" alt="hi" class="inline"/>
